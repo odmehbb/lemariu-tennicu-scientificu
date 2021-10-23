@@ -6,7 +6,7 @@
 
 1. Descridura de su problema
 2. Conseguèntzias de su problema
-3. Arrelata de sa solutzioni
+3. Arrelata de sa solutzioniasda
 4. Conseguèntzias de sa solutzioni
 5. Ghia a s' imperu
 
